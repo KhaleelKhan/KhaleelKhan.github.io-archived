@@ -1,1 +1,3 @@
-# KhaleelKhan.github.io
+- My Resume / CV hosted on Github.com.
+- Forked from https://github.com/jglovier/resume-template .
+- Feel free to use this template if you wish but remember to change the contents :wink:
