@@ -1,6 +1,13 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science, Information and Communication Engineering (iCE)
+  uni: Visvesvaraya Technological University
+  year: 2016 &mdash; Present
+  awards: Current GPA 2.0
+#  summary: If you had any meaningful roles at college, feel free to write about them here
+
+
+- degree: Bachelor of Engineering, Electronics and Communication
+  uni: Visvesvaraya Technological University
+  year: 2009 &mdash; 2013
+  awards: GPA 2.1
+#  summary: If you had any meaningful roles at college, feel free to write about them here
