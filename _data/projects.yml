@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Advanced Integrated Circuit Design Lab
+  role: Lab offered by Integrated Electronic Systems – TU Darmstadt
+  duration: Apr 2017 &mdash; Jul 2017
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: <ul class="resume-item-list"><li>Design a 3-bit DAC using MOSFET 90nm technology</li><li>Implement the circuit and simulate in Cadence Virtuoso.</li><li>Design layout for the circuit.</li><li>Gain knowledge of Analog and Mixed signal design flow.
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Hardware Description language (HDL) Lab
+  role: Lab offered by Integrated Electronic Systems – TU Darmstadt
+  duration: Aug 2017 
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: <ul class="resume-item-list"><li>Use Verilog to model a 5 stage pipelined processor that is defined on ARM Thumb instruction set level.</li><li>Go through the digital design process encompassing specification, register-transfer-level modeling, simulation/verification, synthesis and gate-level simulation.</li><li>Evaluate the system’s performance and resolve bottlenecks.</li><li>Practice group work, documentation and presentation techniques.</li><li>Apply course knowledge and use industry-grade tools, particularly- Modelsim (Mentor Graphics) and Design Compiler (Synopsys)
